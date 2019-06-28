@@ -234,7 +234,7 @@ You should only verify outcome that is observable for the user (or external syst
 
 ### And, But
 
-If you have several `Given`'s, `When`'s, or `Then`s, you *could* write:
+If you have several `Given`'s, `When`'s, or `Then`'s, you *could* write:
 
 ```gherkin
 Example: Multiple Givens
